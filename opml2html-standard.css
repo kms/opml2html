@@ -1,0 +1,45 @@
+a,
+a:link,
+a:visited {
+    color: #003366;
+    text-decoration: underline;
+    color: #003366;
+    text-decoration: underline;
+}
+
+a:active,
+a:hover {
+    color: #666666;
+}
+
+img {
+    border: 0px;
+}
+
+.heading {
+    font-family: verdana, arial, sans-serif;
+    font-size: 1.0em;
+    background-color: #ddcccc;
+    margin-bottom: 0.5em;
+    border-bottom: 3px double #cccccc;
+}
+
+.headingTitle {
+    font-family: verdana, arial, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.list {
+    padding-left: 1.5em;
+}
+
+.listEntry {
+}
+
+.link {
+}
+
+.category {
+    font-style: italic;
+}
