@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- opml2html -->
+<!-- Transform Bloglines OPML to HTML. --> 
+<!-- -->
+<!-- (c) Karl-Martin Skontorp kms@skontorp.net ~ http://picofarad.org/ -->
+<!-- Licensed under the GNU GPL 2.0 or later. -->
 
 <!DOCTYPE xsl:stylesheet [ 
 <!ENTITY nbsp "&#160;"> 
